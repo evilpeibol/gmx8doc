@@ -1,4 +1,5 @@
 # Documentación no oficial para GemixStudio.0.8
 
-Documentación del entorno de programación Gemix Studio en su versión 0.8.
-Gemix Studio está en desarrollo en la actualidad.
+Documentación **no oficial** del entorno de programación de videojuegos Gemix Studio en su versión 0.8.
+
+Gemix Studio está siendo desarrollado por CicTec en la actualidad.
